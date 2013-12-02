@@ -6,6 +6,7 @@ namespace Earlz.Btcd.Test
     {
         public TestBtcd ()
         {
+
         }
     }
 }
