@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btcd", "Btcd\Btcd.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btcd.Test", "Btcd.Test\Btcd.Test.csproj", "{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btcd.LiveTester", "Btcd.LiveTester\Btcd.LiveTester.csproj", "{3678E585-77D4-494F-A23D-461C9DF71B94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3678E585-77D4-494F-A23D-461C9DF71B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3678E585-77D4-494F-A23D-461C9DF71B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3678E585-77D4-494F-A23D-461C9DF71B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3678E585-77D4-494F-A23D-461C9DF71B94}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
