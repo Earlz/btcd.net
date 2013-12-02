@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btcd", "Btcd\Btcd.csproj", "{D2BAD380-BC4E-46E2-A03F-298973C94C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btcd.Test", "Btcd.Test\Btcd.Test.csproj", "{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEF6B79-172B-4BE5-B894-D75D44EBD44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BAD380-BC4E-46E2-A03F-298973C94C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Btcd\Btcd.csproj
+	EndGlobalSection
+EndGlobal
